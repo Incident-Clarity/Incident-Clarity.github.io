@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish" 
+colorScheme = "forest" 
 # Valid values: "blowfish (default), fire, slate, neon, bloody, slate, congo, autumn, terminal, princess, forest"
 
 defaultAppearance = "light" # valid options: light or dark
@@ -38,7 +38,7 @@ smartTOC = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile(def.), hero, card, background, custom
+  layout = "background" # valid options: page, profile(def.), hero, card, background, custom
   homepageImage = "wall.jpg" # used in: hero, and card
   showRecent = false # Recent blogs
   showRecentItems = 5
