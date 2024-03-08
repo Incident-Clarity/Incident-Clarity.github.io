@@ -1,5 +1,5 @@
 ---
-description: I provide knowledge anout Information Security / cybersecurity on this website.
+description: I provide knowledge about Information Security, Virtualization, Malware, Linux, DFIR
 ---
 
 <!-- <div align="left">

@@ -21,11 +21,11 @@ author = "Aayan"
 +++
 
 
-I'm a Cybersecurity Researcher based in Mumbai, India.
+I'm a Cybersecurity Researcher based in Mumbai, India (Open to travel)
 
-Some skills in keywords include: **Linux Wizard, Malware, Incident Response, Virtualization, Digital Forensic**
+Having interests in Unix based systems, Malware Analysis and sandboxing, Virtualization using KVM, Digital Forensic and Incident Response & the Command Line
 
-I've just created this blog to share my InfoSec knowledge. Will populate it over time.
+I've created this blog to share my InfoSec knowledge. Will populate it over time.
 
 To send me a personal message, check out my [PGP](https://incident-clarity.github.io/blogs/pgp/) key. Or DM me on 𝕏. Or connect on <a href="https://www.linkedin.com/in/aayan-ta/">Linkedin</a>
 
