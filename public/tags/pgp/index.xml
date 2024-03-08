@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PGP on Incident Clarity</title>
+    <link>http://localhost:1313/tags/pgp/</link>
+    <description>Recent content in PGP on Incident Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 29 Oct 2023 13:36:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/pgp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GnuPG Notes</title>
+      <link>http://localhost:1313/blogs/pgp_keys/</link>
+      <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blogs/pgp_keys/</guid>
+      <description>Date: 29th October, 2023</description>
+      
+    </item>
+    
+  </channel>
+</rss>

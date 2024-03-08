@@ -14,11 +14,11 @@ title = "Incident Clarity"
   copyright = "&copy; 2024 Incident Clarity. All rights reserved."
 
  [author]
-     name = "Incident Clarity"
+    name = "Incident Clarity"
     image = "IC-logo.png"
     headline = "Info Sec Blog by Aayan 💜"
-     bio = "Crafting a Shield for the Digital Fortress"
-#   links = [
+    bio = "Crafting a Shield for the Digital Fortress" # appears in author card for each article
+#    links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -59,8 +59,8 @@ title = "Incident Clarity"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
+#     { x-twitter = "https://twitter.com/AayanSec" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+#  ]

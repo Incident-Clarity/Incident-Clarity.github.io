@@ -1,0 +1,20 @@
+{{ range .Site.RegularPages }}
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+<h3>{{ .Date.Format "06 January, 2006" }}</h3>
+{{ .Summary }}
+<br>
+{{ if .Truncated }}
+<a href="{{ .RelPermalink }}">Read more...</a>
+{{ end }}
+<br>
+
+{{ .WordCount }} words.
+<br>
+
+{{ .ReadingTime }} minute read. <br>
+
+{{ with .Params.tags }}Tagged with: {{ delimit . ", "}}{{ end }}
+
+<hr>
+
+{{ end }}

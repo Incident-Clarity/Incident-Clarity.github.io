@@ -1,0 +1,17 @@
+body * {  
+  text-align: justify;  
+  justify-content: center;  
+}
+
+/* This section for headers allow you to change how they are aligned. If you only want this to change H1 headers for example, then just remove all the other headers from below: */  
+h1, h2, h3, h4, h5, h6 {  
+text-align: center;  
+}
+
+.max-w-prose {  
+  max-width: 825px;  
+#  max-width: 100%; /* You can use this in place of the max width pixels option above. Either of them works fine, though I prefer to use the px option. */  
+  justify-content: center;  
+  margin-left: auto;  
+  margin-right: auto;  
+}

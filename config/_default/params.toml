@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "forest" 
+colorScheme = "blowfish" 
 # Valid values: "blowfish (default), fire, slate, neon, bloody, slate, congo, autumn, terminal, princess, forest"
 
 defaultAppearance = "light" # valid options: light or dark
@@ -28,7 +28,7 @@ smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -39,14 +39,14 @@ smartTOC = true
 
 [homepage]
   layout = "background" # valid options: page, profile(def.), hero, card, background, custom
-  homepageImage = "wall.jpg" # used in: hero, and card
-  showRecent = false # Recent blogs
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
-  cardView = false
+  homepageImage = "wall7.png" # used in: hero, and card
+  showRecent = true # Recent blogs
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/blogs" # play around
+  cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
@@ -56,7 +56,7 @@ smartTOC = true
   showDateUpdated = false
   showAuthor = true
   showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background(use this), thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background(use this), thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -69,14 +69,14 @@ smartTOC = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  # showRelatedContent = false
-  # relatedContentLimit = 3
+  showTableOfContents = true # play around
+  # showRelatedContent = false  # play around
+  # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+  showZenMode = true
 
 [list]
   showHero = false
@@ -84,13 +84,13 @@ smartTOC = true
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = false  # play around
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

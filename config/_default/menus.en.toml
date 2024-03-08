@@ -10,16 +10,39 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 1
+ [[main]]
+   name = "💜"
+   pre = "home"
+   pageRef = "/"
+   weight = 1
+
+
+# [[main]]
+#   name = "Posts"
+#   pageRef = "posts"
+#   weight = 10
+
+# [[main]]
+#   name = "Projects"
+#   pageRef = "projects"
+#   weight = 20
+
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-#  url = "https://google.com"
+  name = "Blogs"
+  pageRef = "blogs"
   weight = 10
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 10
+
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 90
 
 [[main]]
   name = "Parent"
@@ -37,9 +60,15 @@
   url = "https://twitter.com/AayanSec"
   weight = 100
 
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/aayan-ta/"
+  weight = 101
+
 #[[main]]
-#  identifier = "twitter"
-#  pre = "x-twitter"
+#  identifier = "as"
+#  pre = "twitter"
 #  url = "https://twitter.com/AayanSec"
 #  weight = 200
 # https://blowfish.page/samples/icons/
@@ -66,10 +95,11 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+# Tags - automatically generated based on tags placed on each article
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
 
 
 # -- Footer Menu --
@@ -81,8 +111,3 @@
    name = "Changelog"
    pageRef = "changelog"
 #   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
