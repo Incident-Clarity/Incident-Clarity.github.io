@@ -27,7 +27,10 @@ Some skills in keywords include: **Linux Wizard, Malware, Incident Response, Vir
 
 I've just created this blog to share my InfoSec knowledge. Will populate it over time.
 
-
 To send me a personal message, check out my [PGP](https://incident-clarity.github.io/blogs/pgp/) key. Or DM me on 𝕏. Or connect on <a href="https://www.linkedin.com/in/aayan-ta/">Linkedin</a>
+
+<a href="https://tryhackme.com/p/IncidentClarity" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/IncidentClarity.png" alt="TryHackMe">
+</a>
 
 Feel free to reach out.

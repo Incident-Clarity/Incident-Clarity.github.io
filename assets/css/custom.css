@@ -13,5 +13,5 @@ text-align: center;
 #  max-width: 100%; /* You can use this in place of the max width pixels option above. Either of them works fine, though I prefer to use the px option. */  
   justify-content: center;  
   margin-left: auto;  
-  margin-right: auto;  
+  margin-right: auto; 
 }
