@@ -21,7 +21,7 @@ author = "Aayan"
 +++
 
 
-I'm a Cybersecurity Researcher based in Mumbai.
+I'm a Cybersecurity Researcher based in Mumbai, India.
 
 Some skills in keywords include: **Linux Wizard, Malware, Incident Response, Virtualization, Digital Forensic**
 
