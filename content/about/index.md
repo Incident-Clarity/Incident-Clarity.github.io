@@ -19,18 +19,24 @@ showLikes = false
 showAuthor = false
 author = "Aayan"
 +++
+**Cybersecurity Researcher from Mumbai, India 🌏**
 
+Welcome to my corner of the internet! I'm deeply immersed in the world of cybersecurity and technology in general. I'm currently on a journey to construct this blog as a beacon of my InfoSec knowledge, intending to enrich it progressively over time.
 
-I'm a Cybersecurity Researcher based in Mumbai, India (Open to travel)
+**🛠 Interests**
+- **Audit and Consulting** - ISO27001
+- **Linux** Systems like ArchLinux, Debian, RedHat & **Open Source Softwares**
+- **Malware** Analysis & Sandboxing
+- **Virtualization** using KVM
+- **Digital Forensics & Incident Response** - Project in progress
+- **Shell scripting** in Python, Bash, PowerShell
+- **Markdown** based editors like Obsidian
 
-Having interests in Unix based systems, Malware Analysis and sandboxing, Virtualization using KVM, Digital Forensic and Incident Response & the Command Line
-
-I've created this blog to share my InfoSec knowledge. Will populate it over time.
-
-To send me a personal message, check out my [PGP](https://incident-clarity.github.io/blogs/pgp/) key. Or DM me on 𝕏. Or connect on <a href="https://www.linkedin.com/in/aayan-ta/">Linkedin</a>
+**📬 Get In Touch**
+- For **personal messages**, explore my [PGP key](https://incident-clarity.github.io/blogs/pgp/). Or DM me on 𝕏. Or, connect on [LinkedIn](https://www.linkedin.com/in/aayan-ta/).
 
 <a href="https://tryhackme.com/p/IncidentClarity" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/IncidentClarity.png" alt="TryHackMe">
 </a>
 
-Feel free to reach out.
+Your curiosity in cybersecurity matters is welcome here. Feel free to reach out!

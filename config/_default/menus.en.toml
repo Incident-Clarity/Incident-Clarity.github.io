@@ -44,15 +44,15 @@
   pageRef = "about"
   weight = 90
 
-[[main]]
-  name = "Parent"
-  weight = 20
+# [[main]]
+#   name = "Parent"
+#   weight = 20
 
-[[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
+# [[main]]
+#   name = "example sub-menu 1"
+#   parent = "Parent"
+#   pageRef = "posts"
+#   weight = 20
 
 [[main]]
   identifier = "twitter"
