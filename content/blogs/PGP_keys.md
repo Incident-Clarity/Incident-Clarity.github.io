@@ -1,5 +1,5 @@
 +++
-title = 'GnuPG Notes'
+title = 'What is GnuPG and how to use it'
 date = 2023-10-29T13:36:30+05:30
 draft = false
 author = "Aayan"
@@ -13,7 +13,7 @@ showTableOfContents = true
 
 ## About and instalation of GnuPG
 
-**Complete and free implementation of the OpenPGP standard**
+**GnuPG is a complete and free implementation of the OpenPGP standard.**
 
 URL: https://www.gnupg.org/
 

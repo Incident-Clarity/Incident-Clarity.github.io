@@ -2,28 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PGP on Incident Clarity</title>
-    <link>http://localhost:1313/categories/pgp/</link>
+    <link>http://localhost:34787/categories/pgp/</link>
     <description>Recent content in PGP on Incident Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 29 Oct 2023 13:36:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/pgp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jun 2023 01:21:31 +0530</lastBuildDate><atom:link href="http://localhost:34787/categories/pgp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GnuPG Notes</title>
-      <link>http://localhost:1313/blogs/pgp_keys/</link>
-      <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
-      
-      <guid>http://localhost:1313/blogs/pgp_keys/</guid>
-      <description>Date: 29th October, 2023</description>
-      
-    </item>
-    
-    <item>
-      <title>PGP keys</title>
-      <link>http://localhost:1313/blogs/pgp/</link>
+      <title>My PGP key</title>
+      <link>http://localhost:34787/blogs/pgp/</link>
       <pubDate>Wed, 14 Jun 2023 01:21:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/blogs/pgp/</guid>
+      <guid>http://localhost:34787/blogs/pgp/</guid>
       <description>Date: 14th June, 2023</description>
       
     </item>

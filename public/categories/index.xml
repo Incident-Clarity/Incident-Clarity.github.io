@@ -2,88 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Incident Clarity</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:34787/categories/</link>
     <description>Recent content in Categories on Incident Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 29 Oct 2023 13:36:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gnupg</title>
-      <link>http://localhost:1313/categories/gnupg/</link>
-      <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
-      
-      <guid>http://localhost:1313/categories/gnupg/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/categories/linux/</link>
-      <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
-      
-      <guid>http://localhost:1313/categories/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PGP</title>
-      <link>http://localhost:1313/categories/pgp/</link>
-      <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
-      
-      <guid>http://localhost:1313/categories/pgp/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 25 Oct 2023 09:23:30 +0530</lastBuildDate><atom:link href="http://localhost:34787/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Battery</title>
-      <link>http://localhost:1313/categories/battery/</link>
+      <link>http://localhost:34787/categories/battery/</link>
       <pubDate>Wed, 25 Oct 2023 09:23:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/categories/battery/</guid>
+      <guid>http://localhost:34787/categories/battery/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Laptop</title>
-      <link>http://localhost:1313/categories/laptop/</link>
+      <link>http://localhost:34787/categories/laptop/</link>
       <pubDate>Wed, 25 Oct 2023 09:23:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/categories/laptop/</guid>
+      <guid>http://localhost:34787/categories/laptop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:34787/categories/linux/</link>
+      <pubDate>Wed, 25 Oct 2023 09:23:30 +0530</pubDate>
+      
+      <guid>http://localhost:34787/categories/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PGP</title>
+      <link>http://localhost:34787/categories/pgp/</link>
+      <pubDate>Wed, 14 Jun 2023 01:21:31 +0530</pubDate>
+      
+      <guid>http://localhost:34787/categories/pgp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/categories/privacy/</link>
+      <link>http://localhost:34787/categories/privacy/</link>
       <pubDate>Wed, 14 Jun 2023 01:21:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/categories/privacy/</guid>
+      <guid>http://localhost:34787/categories/privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security</title>
-      <link>http://localhost:1313/categories/security/</link>
+      <link>http://localhost:34787/categories/security/</link>
       <pubDate>Wed, 14 Jun 2023 01:21:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/categories/security/</guid>
+      <guid>http://localhost:34787/categories/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/categories/markdown/</link>
+      <link>http://localhost:34787/categories/markdown/</link>
       <pubDate>Mon, 08 May 2023 03:28:42 +0530</pubDate>
       
-      <guid>http://localhost:1313/categories/markdown/</guid>
+      <guid>http://localhost:34787/categories/markdown/</guid>
       <description></description>
       
     </item>

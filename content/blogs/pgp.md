@@ -1,5 +1,5 @@
 +++
-title = 'PGP keys'
+title = 'My PGP key'
 date = 2023-06-14T01:21:31+05:30
 draft = false
 author = ["aayan", "test"]

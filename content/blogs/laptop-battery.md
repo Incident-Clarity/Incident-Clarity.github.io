@@ -1,5 +1,5 @@
 +++
-title = 'Laptop Battery'
+title = 'Linux laptop battery'
 date = 2023-10-25T09:23:30+05:30
 draft = false
 author = "aayan"
