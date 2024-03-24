@@ -11,9 +11,9 @@ showTableOfContents = true
 
 > Date: 29th October, 2023
 
-## About and instalation of GnuPG
+## About and instalation of GPG (GNU Privacy Guard)
 
-**GnuPG is a complete and free implementation of the OpenPGP standard.**
+**GPG (GNU Privacy Guard) is a complete and free implementation of the OpenPGP standard.**
 
 URL: https://www.gnupg.org/
 

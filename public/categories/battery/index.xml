@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Battery on Incident Clarity</title>
-    <link>http://localhost:34787/categories/battery/</link>
+    <link>http://localhost:40317/categories/battery/</link>
     <description>Recent content in Battery on Incident Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 09:23:30 +0530</lastBuildDate><atom:link href="http://localhost:34787/categories/battery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 09:23:30 +0530</lastBuildDate><atom:link href="http://localhost:40317/categories/battery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux laptop battery</title>
-      <link>http://localhost:34787/blogs/laptop-battery/</link>
+      <link>http://localhost:40317/blogs/laptop-battery/</link>
       <pubDate>Wed, 25 Oct 2023 09:23:30 +0530</pubDate>
       
-      <guid>http://localhost:34787/blogs/laptop-battery/</guid>
+      <guid>http://localhost:40317/blogs/laptop-battery/</guid>
       <description>25th October, 2023</description>
       
     </item>

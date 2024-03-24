@@ -67,6 +67,10 @@ RvoFeIKq+ujA8q44Ome01vsJN+MTNDuJjIYMa88BKxWOIm2S5XEhQDtGpX26nLmx
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+## Or get it from here: 
+
+https://keys.openpgp.org/vks/v1/by-fingerprint/361B51C910B491E96A668AE5DC06AA3111421839
+
 ---
 
 ## Steps to send a message using PGP on Linux:
