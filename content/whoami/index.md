@@ -27,7 +27,7 @@ Welcome to my corner of the internet! I'm deeply engrossed in the realm of cyber
 
 🎓 **Qualifications and Interests**
 - **Lead Auditor** for ISO/IEC 27001:2022, March 2024
-- **Linux** Systems like ArchLinux, Debian, RedHat & **Open Source Softwares**
+- **Linux** Systems like Arch Linux, Debian, RedHat
 - **Malware** Analysis & Sandboxing using virtualization
 - **Virtualization** using various hypervisors (KVM, VMWare) and containerization platform (Docker)
 - **Digital Forensics & Incident Response** - Project in progress
@@ -35,7 +35,7 @@ Welcome to my corner of the internet! I'm deeply engrossed in the realm of cyber
 - **Markdown** editors like Obsidian
 
 ✉️ **Contact Information**
-- Explore my [PGP key](https://incident-clarity.github.io/blogs/pgp/). 
+- Explore my [PGP key](https://incident-clarity.github.io/posts/pgp/#my-public-pgp-key). 
 - ssh[dot]report1[@]gmail[dot]com
 - Connect on [LinkedIn](https://www.linkedin.com/in/aayan-ta/).
 
