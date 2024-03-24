@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Incident Clarity</title>
-    <link>http://localhost:40317/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Incident Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 29 Oct 2023 13:36:30 +0530</lastBuildDate><atom:link href="http://localhost:40317/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 13:36:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:40317/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
       
-      <guid>http://localhost:40317/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Cybersecurity Researcher from Mumbai, India 🌏</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40317/about/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.jpg" />
     </item>
     
     <item>
       <title>What is GnuPG and how to use it</title>
-      <link>http://localhost:40317/blogs/pgp_keys/</link>
+      <link>http://localhost:1313/blogs/pgp_keys/</link>
       <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
       
-      <guid>http://localhost:40317/blogs/pgp_keys/</guid>
+      <guid>http://localhost:1313/blogs/pgp_keys/</guid>
       <description>Date: 29th October, 2023</description>
       
     </item>
     
     <item>
       <title>Linux laptop battery</title>
-      <link>http://localhost:40317/blogs/laptop-battery/</link>
+      <link>http://localhost:1313/blogs/laptop-battery/</link>
       <pubDate>Wed, 25 Oct 2023 09:23:30 +0530</pubDate>
       
-      <guid>http://localhost:40317/blogs/laptop-battery/</guid>
+      <guid>http://localhost:1313/blogs/laptop-battery/</guid>
       <description>25th October, 2023</description>
       
     </item>
     
     <item>
       <title>My PGP key</title>
-      <link>http://localhost:40317/blogs/pgp/</link>
+      <link>http://localhost:1313/blogs/pgp/</link>
       <pubDate>Wed, 14 Jun 2023 01:21:31 +0530</pubDate>
       
-      <guid>http://localhost:40317/blogs/pgp/</guid>
+      <guid>http://localhost:1313/blogs/pgp/</guid>
       <description>Date: 14th June, 2023</description>
       
     </item>
     
     <item>
       <title>Obsidian Page Break</title>
-      <link>http://localhost:40317/blogs/obsidian-page-break/</link>
+      <link>http://localhost:1313/blogs/obsidian-page-break/</link>
       <pubDate>Mon, 08 May 2023 03:28:42 +0530</pubDate>
       
-      <guid>http://localhost:40317/blogs/obsidian-page-break/</guid>
+      <guid>http://localhost:1313/blogs/obsidian-page-break/</guid>
       <description>08th May, 2023</description>
       
     </item>
     
     <item>
       <title>test</title>
-      <link>http://localhost:40317/blogs/untitled/</link>
+      <link>http://localhost:1313/blogs/untitled/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:40317/blogs/untitled/</guid>
+      <guid>http://localhost:1313/blogs/untitled/</guid>
       <description>08th May, 2023</description>
       
     </item>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Md on Incident Clarity</title>
-    <link>http://localhost:40317/tags/md/</link>
+    <link>http://localhost:1313/tags/md/</link>
     <description>Recent content in Md on Incident Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 May 2023 03:28:42 +0530</lastBuildDate><atom:link href="http://localhost:40317/tags/md/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 03:28:42 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/md/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Page Break</title>
-      <link>http://localhost:40317/blogs/obsidian-page-break/</link>
+      <link>http://localhost:1313/blogs/obsidian-page-break/</link>
       <pubDate>Mon, 08 May 2023 03:28:42 +0530</pubDate>
       
-      <guid>http://localhost:40317/blogs/obsidian-page-break/</guid>
+      <guid>http://localhost:1313/blogs/obsidian-page-break/</guid>
       <description>08th May, 2023</description>
       
     </item>

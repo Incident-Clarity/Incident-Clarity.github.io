@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:40317/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-10-29T13:36:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2023-10-29T13:36:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-10-29T13:36:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/blogs/pgp_keys/</loc>
+    <loc>http://localhost:1313/blogs/pgp_keys/</loc>
     <lastmod>2023-10-29T13:36:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/blogs/laptop-battery/</loc>
+    <loc>http://localhost:1313/blogs/laptop-battery/</loc>
     <lastmod>2023-10-25T09:23:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/blogs/pgp/</loc>
+    <loc>http://localhost:1313/blogs/pgp/</loc>
     <lastmod>2023-06-14T01:21:31+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/blogs/obsidian-page-break/</loc>
+    <loc>http://localhost:1313/blogs/obsidian-page-break/</loc>
     <lastmod>2023-05-08T03:28:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:40317/blogs/untitled/</loc>
+    <loc>http://localhost:1313/blogs/untitled/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
