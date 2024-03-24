@@ -17,7 +17,7 @@ showTableOfContents: false
 showTaxonomies: false
 showViews: false
 showWordCount: false
-title: "/> whoami"
+title: "$ whoami"
 ---
 **I'm Aayan Ta, 22 year old who loves Linux, systems, and information security**
 
@@ -26,7 +26,7 @@ title: "/> whoami"
 Welcome to my corner of the internet! I'm deeply engrossed in the realm of cybersecurity and technology. Currently constructing this website which hosts my InfoSec skills and the technology associated with it. Intended to enrich progressively over time.
 
 🎓 **Qualifications and Interests**
-- **Auditing**: ISO/IEC 27001:2022 — Lead Auditor, March 2024
+- **Lead Auditor** for ISO/IEC 27001:2022, March 2024
 - **Linux** Systems like ArchLinux, Debian, RedHat & **Open Source Softwares**
 - **Malware** Analysis & Sandboxing using virtualization
 - **Virtualization** using various hypervisors (KVM, VMWare) and containerization platform (Docker)
