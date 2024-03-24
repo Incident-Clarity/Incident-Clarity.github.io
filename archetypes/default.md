@@ -1,22 +1,38 @@
-+++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
-draft = false
-author = "aayan"
-showauthor = true
-tags = ["blog"]
-categories = [""]
-showDateOnlyInArticle = false
-showDateUpdated = false
-showHeadingAnchors = false
-showPagination = false
-showReadingTime = false
-showTableOfContents = false
-showTaxonomies = false 
-showWordCount = false
-showSummary = false
-sharingLinks = false
-showEdit = false
-showViews = false
-showLikes = false
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+url: /{{ .Name }}/
+categories:
+#  - Linux
+#  - Windows
+#  - Networking
+#  - Security
+#  - CTF
+#  - Intervew
+#  - Course
+#  - Notes
+tags:
+#  - Ubuntu
+#  - SIEM
+draft: true
+author: aayan
+showauthor: false
+showDateOnlyInArticle: false
+showDateUpdated: true
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: true
+showTableOfContents: true
+showTaxonomies: true 
+showWordCount: true
+sharingLinks: false
+showEdit: false
+showViews: false
+showLikes: false
+showSummary: false
+summary: ""
+---
+<!--more-->
+
+## 
+

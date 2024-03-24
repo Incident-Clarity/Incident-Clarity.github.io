@@ -10,11 +10,11 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
- [[main]]
-   name = "💜"
-   pre = "home"
-   pageRef = "/"
-   weight = 1
+[[main]]
+  name = "💜"
+  pre = "home"
+  pageRef = "/"
+  weight = 1
 
 
 # [[main]]
@@ -29,19 +29,76 @@
 
 
 [[main]]
-  name = "Blogs"
-  pageRef = "blogs"
+  name = "Posts"
+  pageRef = "posts"
   weight = 10
 
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 10
+
+# Categories 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 10
+weight = 10
+url = "#"
+name = "Sections"
+hasChildren = true
+
+[[main]]
+    name = "Linux"
+    weight = 1
+    url = "/categories/linux"
+    parent = "Sections"
+
+[[main]]
+    name = "Windows"
+    weight = 2
+    url = "/categories/windows"
+    parent = "Sections"
+
+[[main]]
+    name = "Networking"
+    weight = 3
+    url = "/categories/networking"
+    parent = "Sections"
+
+# chnage to privacy (maybe)
+[[main]]
+    name = "Security"
+    weight = 4
+    url = "/categories/security"
+    parent = "Sections"
+
+[[main]]
+    name = "CFTs"
+    weight = 5
+    url = "/categories/ctfs"
+    parent = "Sections"
+
+[[main]]
+    name = "Interview"
+    weight = 6
+    url = "/categories/interview"
+    parent = "Sections"
+
+[[main]]
+    name = "Courses"
+    weight = 7
+    url = "/categories/courses"
+    parent = "Sections"
+
+[[main]]
+    name = "Notes"
+    weight = 8
+    url = "/categories/notes"
+    parent = "Sections"
 
 
+# About
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "whoami"
+  pageRef = "whoami"
   weight = 90
 
 # [[main]]
@@ -59,12 +116,6 @@
   pre = "x-twitter"
   url = "https://twitter.com/AayanSec"
   weight = 100
-
-[[main]]
-  identifier = "linkedin"
-  pre = "linkedin"
-  url = "https://www.linkedin.com/in/aayan-ta/"
-  weight = 101
 
 #[[main]]
 #  identifier = "as"
@@ -100,7 +151,6 @@
   name = "Tags"
   pageRef = "tags"
   weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

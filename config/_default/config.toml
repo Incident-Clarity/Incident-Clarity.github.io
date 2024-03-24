@@ -12,6 +12,9 @@ enableRobotsTXT = false
 paginate = 10
 summaryLength = 0
 
+# idk if this works
+MetaDataFormat = "yaml"
+
 buildDrafts = false
 buildFuture = false
 

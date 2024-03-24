@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish" 
-# Valid values: "blowfish (default), fire, slate, neon, bloody, slate, congo, autumn, terminal, princess, forest"
+# Valid values: "blowfish (default), fire, slate, neon, bloody, congo, autumn, terminal, princess, forest"
 
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
@@ -41,9 +41,9 @@ smartTOC = true
   layout = "background" # valid options: page, profile(def.), hero, card, background, custom
   homepageImage = "wall7.png" # used in: hero, and card
   showRecent = true # Recent blogs
-  showRecentItems = 6
+  showRecentItems = 8
   showMoreLink = true
-  showMoreLinkDest = "/blogs" # play around
+  showMoreLinkDest = "/posts" # play around
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

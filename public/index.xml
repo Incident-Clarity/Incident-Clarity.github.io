@@ -9,61 +9,51 @@
     <copyright>&amp;copy; 2024 Incident Clarity. All rights reserved.</copyright>
     <lastBuildDate>Sun, 29 Oct 2023 13:36:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <title>/&gt; whoami</title>
+      <link>http://localhost:1313/whoami/</link>
       <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
-      <description>Cybersecurity Researcher from Mumbai, India 🌏</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.jpg" />
+      <guid>http://localhost:1313/whoami/</guid>
+      <description>I&amp;rsquo;m Aayan Ta, 22 year old who loves Linux, systems, and information security</description>
+      
     </item>
     
     <item>
-      <title>What is GnuPG and how to use it</title>
-      <link>http://localhost:1313/blogs/pgp_keys/</link>
+      <title>GnuPG and it&#39;s use</title>
+      <link>http://localhost:1313/PGP-and-use/</link>
       <pubDate>Sun, 29 Oct 2023 13:36:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/blogs/pgp_keys/</guid>
+      <guid>http://localhost:1313/PGP-and-use/</guid>
       <description>Date: 29th October, 2023</description>
       
     </item>
     
     <item>
       <title>Linux laptop battery</title>
-      <link>http://localhost:1313/blogs/laptop-battery/</link>
+      <link>http://localhost:1313/posts/laptop-battery/</link>
       <pubDate>Wed, 25 Oct 2023 09:23:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/blogs/laptop-battery/</guid>
+      <guid>http://localhost:1313/posts/laptop-battery/</guid>
       <description>25th October, 2023</description>
       
     </item>
     
     <item>
       <title>My PGP key</title>
-      <link>http://localhost:1313/blogs/pgp/</link>
+      <link>http://localhost:1313/posts/pgp/</link>
       <pubDate>Wed, 14 Jun 2023 01:21:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/blogs/pgp/</guid>
+      <guid>http://localhost:1313/posts/pgp/</guid>
       <description>Date: 14th June, 2023</description>
       
     </item>
     
     <item>
       <title>Obsidian Page Break</title>
-      <link>http://localhost:1313/blogs/obsidian-page-break/</link>
+      <link>http://localhost:1313/posts/obsidian-page-break/</link>
       <pubDate>Mon, 08 May 2023 03:28:42 +0530</pubDate>
       
-      <guid>http://localhost:1313/blogs/obsidian-page-break/</guid>
-      <description>08th May, 2023</description>
-      
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://localhost:1313/blogs/untitled/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blogs/untitled/</guid>
+      <guid>http://localhost:1313/posts/obsidian-page-break/</guid>
       <description>08th May, 2023</description>
       
     </item>
