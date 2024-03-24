@@ -16,7 +16,7 @@ title = "Incident Clarity"
  [author]
     name = "Incident Clarity"
     image = "IC-logo.png"
-    headline = "Info Sec Blog by Aayan 💜"
+    headline = "Information Security Blog by Aayan 💜"
     bio = "Crafting a Shield for the Digital Fortress" # appears in author card for each article
 #    links = [
 #     { email = "mailto:hello@your_domain.com" },

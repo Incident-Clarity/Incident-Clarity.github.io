@@ -19,7 +19,7 @@ showViews: false
 showWordCount: false
 title: "$ whoami"
 ---
-**I'm Aayan Ta, 22 year old who loves Linux, systems, and information security**
+**I'm Aayan Ta, 22 year old who loves linux, systems, and information security**
 
 🛡️ **Disclaimer: Opinions are my own and not the views of my employer**
 
