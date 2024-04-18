@@ -1,5 +1,5 @@
 ---
-title: "GlazeWM: tilling window manager"
+title: GlazeWM Guide
 date: 2024-04-18T17:21:20+05:30
 url: /glazeWM-windows/
 categories:
@@ -22,9 +22,9 @@ showTaxonomies: true
 showWordCount: true
 sharingLinks: false
 showEdit: false
-showViews: true
+showViews: false
 showLikes: false
-showSummary: false
+showSummary: true
 summary: Tiling window manager for Windows
 ---
 <!--more-->
@@ -149,10 +149,10 @@ gaps:
 ```
 
 
-### My Personal Configuration 
+### My Personal Config
 ---
 
-There are not a lot of changes to my configuration. But check it out here: [file](https://raw.githubusercontent.com/Incident-Clarity/glazewm/main/config.yaml)
+There are not a lot of changes to my configuration file. But check it out here: [file](https://raw.githubusercontent.com/Incident-Clarity/glazewm/main/config.yaml)
 
 
 ## Final Thoughts 
@@ -166,4 +166,4 @@ There are not a lot of changes to my configuration. But check it out here: [file
 **Additional learning**: 
 - HTML keyboard input `<kbd>key</kbd>` Tag
 	- <kbd>Alt</kbd> + <kbd>Tab</kbd>
-	- [Reference](https://www.w3schools.com/tags/tag_kbd.asp)
+	- [Web-Reference](https://www.w3schools.com/tags/tag_kbd.asp)
