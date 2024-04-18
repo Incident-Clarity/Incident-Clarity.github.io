@@ -149,8 +149,8 @@ hasChildren = true
 # Tags - automatically generated based on tags placed on each article
 [[main]]
   name = "Tags"
-  pageRef = "#"
-  #pageRef = "tags"
+  #pageRef = "#" ??????
+  pageRef = "tags"
   weight = 30
 
 # -- Footer Menu --

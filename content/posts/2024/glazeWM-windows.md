@@ -5,7 +5,6 @@ url: /glazeWM-windows/
 categories:
   - Windows
 tags:
-  - Blog
   - Guide
   - Open-Source
   - Windows
@@ -166,4 +165,4 @@ There are not a lot of changes to my configuration file. But check it out here: 
 **Additional learning**: 
 - HTML keyboard input `<kbd>key</kbd>` Tag
 	- <kbd>Alt</kbd> + <kbd>Tab</kbd>
-	- [Web-Reference](https://www.w3schools.com/tags/tag_kbd.asp)
+	- [w3-reference](https://www.w3schools.com/tags/tag_kbd.asp)
