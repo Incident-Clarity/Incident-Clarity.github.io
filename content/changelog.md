@@ -16,9 +16,10 @@ showTaxonomies: false
 showViews: false
 showWordCount: false
 title: Changelog
+type: page
 ---
 
-(Boilerplatecode)
+(Boiler-plate-code)
 
 All notable changes to this project will be documented in this file.
 

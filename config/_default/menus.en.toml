@@ -71,7 +71,7 @@ hasChildren = true
     parent = "Sections"
 
 [[main]]
-    name = "CFTs"
+    name = "CTFs"
     weight = 5
     url = "/categories/ctfs"
     parent = "Sections"
@@ -149,7 +149,8 @@ hasChildren = true
 # Tags - automatically generated based on tags placed on each article
 [[main]]
   name = "Tags"
-  pageRef = "tags"
+  pageRef = "#"
+  #pageRef = "tags"
   weight = 30
 
 # -- Footer Menu --

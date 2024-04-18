@@ -43,7 +43,8 @@ smartTOC = true
   showRecent = true # Recent blogs
   showRecentItems = 8
   showMoreLink = true
-  showMoreLinkDest = "/posts" # play around
+  showMoreLinkDest = "/posts" # play around 
+  # it works by default? "/posts/xxxx"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -76,8 +77,8 @@ smartTOC = true
   # show tags (^)
   showAuthorsBadges = false
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = true
+  # sharingLinks = [ "linkedin", "twitter", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = false

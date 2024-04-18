@@ -19,3 +19,7 @@ text-align: left;
   margin-left: auto;  
   margin-right: auto; 
 }
+
+kbd {
+  font-family: monospace;
+}
