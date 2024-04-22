@@ -5,7 +5,7 @@ url: /sem2-Final-Presentation/
 categories:
   - Networking
   - Security
-  - Course
+  - Courses
   - Notes
 tags:
   - XDR

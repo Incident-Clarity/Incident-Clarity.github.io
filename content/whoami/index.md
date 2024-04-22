@@ -1,6 +1,6 @@
 ---
 author: Aayan
-date: "2023-10-29T13:36:30+05:30"
+date: 2023-10-29T13:36:30+05:30
 draft: false
 sharingLinks: false
 showAuthor: false
@@ -17,7 +17,7 @@ showTableOfContents: false
 showTaxonomies: false
 showViews: false
 showWordCount: false
-title: "$ whoami"
+title: $ whoami
 ---
 **I'm Aayan Ta, 22 year old who loves linux, systems, and information security**
 

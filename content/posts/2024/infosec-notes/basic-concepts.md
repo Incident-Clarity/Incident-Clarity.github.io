@@ -6,6 +6,7 @@ categories:
   - Security
   - Notes
   - interview
+  - Courses
 tags:
   - Guide
 draft: false

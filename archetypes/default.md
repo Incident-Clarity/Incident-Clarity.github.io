@@ -9,7 +9,7 @@ categories:
 #  - Security
 #  - CTF
 #  - Intervew
-#  - Course
+#  - Courses
 #  - Notes
 tags:
 #  - Ubuntu
