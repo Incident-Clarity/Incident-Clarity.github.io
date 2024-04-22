@@ -1,16 +1,11 @@
 ---
-title: "Few InfoSec Concepts"
+title: Few InfoSec Concepts
 date: 2024-04-19T02:05:56+05:30
 url: /basic-concepts/
 categories:
-#  - Linux
-#  - Windows
-#  - Networking
-   - Security
-#  - CTF
-   - Intervew
-#  - Course
-   - Notes
+  - Security
+  - Notes
+  - interview
 tags:
   - Guide
 draft: false
@@ -22,14 +17,14 @@ showHeadingAnchors: false
 showPagination: false
 showReadingTime: true
 showTableOfContents: true
-showTaxonomies: true 
+showTaxonomies: true
 showWordCount: true
 sharingLinks: false
 showEdit: false
 showViews: false
 showLikes: false
 showSummary: true
-summary: "InfoSec concept revision notes"
+summary: InfoSec concept revision notes
 ---
 <!--more-->
 

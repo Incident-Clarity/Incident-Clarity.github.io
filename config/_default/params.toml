@@ -78,7 +78,7 @@ smartTOC = true
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "whatsapp", "telegram"]
-  showZenMode = false
+  showZenMode = true
 
 [list]
   showHero = false
