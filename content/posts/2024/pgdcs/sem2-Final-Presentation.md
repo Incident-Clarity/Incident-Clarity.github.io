@@ -54,14 +54,14 @@ summary: ""
 	- Networking equipment: routers, switches
 	- Air conditioning units
 - **Training Facilities**:
-	- Training room setting with 30 seats for hands-on training sessions (20 reserved) (qurueing theory), equipped with the latest IT infrastructure for practical learning experiences.
+	- Training room setting with 30 seats for hands-on training sessions (20 reserved) (queuing theory), equipped with the latest IT infrastructure for practical learning experiences.
 	- Pre-recorded tutorials and training sessions that are available for purchase on the website (to be discussed in cloud infrastructure below).
     - On-Site training sessions at client locations is provided by our certified trainers.
     - **What kind of Tutorials?**
 		- Cybersecurity awareness drives
 			- Fundamentals
 			- Advance labs: "How to respond to cybersecurity incidents"
-			- Training on compliances like GDPR for data protection. 
+			- Training on compliance like GDPR for data protection. 
 			- Incident Response and Disaster Recovery
 		- Operational Proficiency
 			- Hardware Management and Troubleshooting (systems)
@@ -111,6 +111,37 @@ summary: ""
 - **Offsite Infrastructure for Backup (accessed using dedicated line):**
 	- 64-core CPU server with 1 x 20 T.B. SSD and 40 x 2.5 PB HDD with 200 GB DDR5 memory running TrueNAS.
 	- Backups performed every 12 hours.
+
+
+### **Compliance:**
+---
+
+- **GDPR:**
+- Types of data collected (first name, last name, email, phone number, address, status, payment method)
+- Customer consent using 
+- Data Protection Officer is appointed
+- If breach happens, users will be notified within 42 hrs (72 hrs is a limit)
+
+- **ISO 27001:**
+- Define the information, assets, and areas that ISMS will cover
+- Risk assessment
+- Risk mitigation
+- Training and awareness
+- Continuous improvement
+
+- **GST (Goods and Services Tax):**
+- GST registered organisation.
+- Accounting software used by the sales team (Taly)
+- invoice management (saved in the database)
+- regular filling of gst returns as per the timeline and documentation is also done
+- educate the finance and accounting team
+
+
+- **PCI DSS (Payment Card Industry Data Security Standard):**
+- Card holder data environment (stored in the database)
+- Access control established so that only the employees who need it can access it.
+- Create annual internal audit report and submit to the bank or card brand we use.
+
 
 
 
