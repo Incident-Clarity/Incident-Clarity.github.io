@@ -57,7 +57,7 @@ summary: ""
 	- Training room setting with 30 seats for hands-on training sessions (20 reserved) (qurueing theory), equipped with the latest IT infrastructure for practical learning experiences.
 	- Pre-recorded tutorials and training sessions that are available for purchase on the website (to be discussed in cloud infrastructure below).
     - On-Site training sessions at client locations is provided by our certified trainers.
-    - What kind of Tutorials?
+    - **What kind of Tutorials?**
 		- Cybersecurity awareness drives
 			- Fundamentals
 			- Advance labs: "How to respond to cybersecurity incidents"
@@ -80,7 +80,7 @@ summary: ""
 	- Access Control Software
 	- Integrate devices with Security Center software for managing access permissions and monitoring entry logs.
 	- Monitor access attempts in real time; generate alerts for unauthorized access.
-	- data protection laws
+
 
 
 
