@@ -116,31 +116,31 @@ summary: ""
 ### **Compliance:**
 ---
 
-- **GDPR:**
-- Types of data collected (first name, last name, email, phone number, address, status, payment method)
-- Customer consent using 
-- Data Protection Officer is appointed
-- If breach happens, users will be notified within 42 hrs (72 hrs is a limit)
+- **GDPR (General Data Protection Regulation):**
+	- Types of data collected (first name, last name, email, phone number, address, status, payment method)
+	- Customer consent using 
+	- Data Protection Officer is appointed
+	- If breach happens, users will be notified within 42 hrs (72 hrs is a limit)
 
 - **ISO 27001:**
-- Define the information, assets, and areas that ISMS will cover
-- Risk assessment
-- Risk mitigation
-- Training and awareness
-- Continuous improvement
+	- Define the information, assets, and areas that ISMS will cover
+	- Risk assessment
+	- Risk mitigation
+	- Training and awareness
+	- Continuous improvement
 
 - **GST (Goods and Services Tax):**
-- GST registered organisation.
-- Accounting software used by the sales team (Taly)
-- invoice management (saved in the database)
-- regular filling of gst returns as per the timeline and documentation is also done
-- educate the finance and accounting team
+	- GST registered organisation.
+	- Accounting software used by the sales team, data is stored in PostgreSQL
+	- Invoice management (saved in the database)
+	- Regular filling of GST returns as per the timeline and documentation is also done
+	- Educate the finance and accounting team
 
 
 - **PCI DSS (Payment Card Industry Data Security Standard):**
-- Card holder data environment (stored in the database)
-- Access control established so that only the employees who need it can access it.
-- Create annual internal audit report and submit to the bank or card brand we use.
+	- Card holder data environment (stored in the database)
+	- Access control established so that only the employees who need it can access it.
+	- Create annual internal audit report and submit to the bank or card brand we use.
 
 
 
