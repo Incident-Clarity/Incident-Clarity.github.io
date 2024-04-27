@@ -180,7 +180,7 @@ summary: ""
 ---
 
 > Aayan Ta | Edit: 27th April, 2024 | General Feedback
-## Presentation Feedback:
+## Presentation Feedback!
 - Keeping it relevant throughout (not to explain topics like a lecture - they should be to the point)
 - Prepare many designs + models
 - Prepare or ask or design the structure in such a way that the flow is relevant (*my presentation feedback* - head points were up and down)
