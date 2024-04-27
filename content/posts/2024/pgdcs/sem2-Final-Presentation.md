@@ -32,22 +32,22 @@ summary: ""
 ---
 > Aayan Ta | 23rd April, 2024 | Final Presentation | Parody company | 02:16
 
-## Business Name: InCla (parody)
+## Business Name: *InCla* (parody)
 ---
 
-### **Business Model:** 
+### Business Model
 ---
 
 - IT systems retailer and service provider specializing in small scale infrastructure such as servers, networking equipment, along with IT training services both remote and on-site.
 
-### **Location:**
+### Location
 ---
 
 - Based in Mumbai with a physical store for infrastructure sales and IT training facility equipped with advanced infrastructure.
 
 
 
-### **Services Provided:**
+### Services Provided
 ---
 - **IT infrastructure sales** (on-site for now): 
 	- EPIC Servers (64-cores)
@@ -69,7 +69,7 @@ summary: ""
 			- Network Setup
 
 
-### **Physical Security:**
+### Physical Security
 ---
 - **Access Control:** Biometric and card-based access controls at all entry points to secure physical access to the IT infrastructure.
 - **Surveillance**: Utilize CCTV systems networked through high-speed connections to monitor premises 24/7.
@@ -85,7 +85,7 @@ summary: ""
 
 
 
-### **Infrastructure Components:**
+### Infrastructure Components
 ---
 - **Operational IT Systems (on-prem):**
 	- Utilize PostgreSQL databases to store sensitive customer data, ensuring GDPR compliance for data protection.
@@ -113,7 +113,7 @@ summary: ""
 	- Backups performed every 12 hours.
 
 
-### **Compliance:**
+### Compliance
 ---
 
 - **GDPR (General Data Protection Regulation):**
@@ -145,7 +145,7 @@ summary: ""
 
 
 
-### **Cyber Security and Resilience:**
+### Cyber Security and Resilience
 ---
 - **Business Continuity and Disaster Recovery (BCDR):**
     - Comprehensive BCDR plans that include regular backups to on-premise, cloud, and off-site storages, using encrypted channels for data transmission to ensure security and compliance.
@@ -155,9 +155,9 @@ summary: ""
 
 ---
 
-## Hypothetical Scenario: Ransomware Attack on InCla (parody)
+## Hypothetical Scenario
 ---
-
+***Ransomware Attack on InCla (parody)***
 
 **Background:** InCla (parody), an IT systems and services company in Mumbai, encounters a ransomware attack that encrypts customer data stored on their on-premise servers.
 
@@ -179,8 +179,8 @@ summary: ""
 
 ---
 
-> Aayan Ta | Edit: 24th April, 2024 | Feedback
-## Presentation Feedback (In-general):
+> Aayan Ta | Edit: 27th April, 2024 | General Feedback
+## Presentation Feedback:
 - Keeping it relevant throughout (not to explain topics like a lecture - they should be to the point)
 - Prepare many designs + models
 - Prepare or ask or design the structure in such a way that the flow is relevant (*my presentation feedback* - head points were up and down)
