@@ -179,6 +179,7 @@ summary: ""
 
 ---
 
+> Aayan Ta | Edit: 24th April, 2024 | Feedback
 ## Presentation Feedback (In-general):
 - Keeping it relevant throughout (not to explain topics like a lecture - they should be to the point)
 - Prepare many designs + models
