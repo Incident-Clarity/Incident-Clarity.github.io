@@ -177,3 +177,15 @@ summary: ""
 **Conclusion:** With robust IRP and BCDR strategies, InCla managed to recover with minimal disruption and improved their security posture to better handle future threats.
 
 
+---
+
+## Presentation Feedback (In-general):
+- Keeping it relevant throughout (not to explain topics like a lecture - they should be to the point)
+- Prepare many designs + models
+- Prepare or ask or design the structure in such a way that the flow is relevant (*my presentation feedback* - head points were up and down)
+- A lecture is a lecture. Broad topics must use pt. 1
+- Professional terminologies
+- Hand eye contact
+- Speaking stuff, but the the points are not on the slide
+	- WAF is being spoken, but no keywords on the slide
+	- Amount charged to the company (GDPR)
