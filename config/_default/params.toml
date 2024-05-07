@@ -41,7 +41,7 @@ smartTOC = true
   layout = "background" # valid options: page, profile(def.), hero, card, background, custom
   homepageImage = "wall7.png" # used in: hero, and card
   showRecent = true # Recent blogs
-  showRecentItems = 8
+  showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "/posts" # play around 
   # it works by default? "/posts/xxxx"
