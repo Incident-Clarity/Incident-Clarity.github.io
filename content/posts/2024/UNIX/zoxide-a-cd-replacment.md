@@ -10,7 +10,6 @@ categories:
 #  - CTF
 #  - Intervew
 #  - Course
-#  - Notes
 tags:
     - Zoxide
     - linux
@@ -20,7 +19,7 @@ tags:
     - mac
 #  - Ubuntu
 #  - SIEM
-draft: false
+draft: true
 author: aayan
 showauthor: false
 showDateOnlyInArticle: false
