@@ -1,9 +1,9 @@
 ---
 title: ISO 27001 Checklist
 date: 2024-05-07T18:01:37+05:30
-url: /pvt/ISO-27001-checklist/
+url: /ISO-27001-checklist/
 categories:
-  - interview
+  - Notes
 tags:
   - checklist
   - iso-27001

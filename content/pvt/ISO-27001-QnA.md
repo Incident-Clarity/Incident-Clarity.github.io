@@ -6,7 +6,7 @@ categories:
   - interview
 tags:
   - iso-27001
-draft: false
+draft: true
 author: aayan
 showauthor: false
 showDateOnlyInArticle: false
