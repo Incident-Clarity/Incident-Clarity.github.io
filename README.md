@@ -1,4 +1,4 @@
-# [Incident-Clarity.github.io](https://incident-clarity.github.io/)
+# [Incident Clarity](https://incident-clarity.github.io/)
 
 My InfoSec blog built using Hugo!
 
