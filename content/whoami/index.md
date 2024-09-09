@@ -19,9 +19,9 @@ showViews: false
 showWordCount: false
 title: $ whoami
 ---
-**I'm Aayan Ta, 22 year old who loves linux, systems, and information security**
+**I'm a 22 year old geek who loves GNU+linux, and information security**
 
-🛡️ ***Disclaimer: Opinions are my own and not the views of my employer***
+🛡️ ***Disclaimer: Opinions are my own and not the views of my employer.***
 
 Welcome to my corner of the internet! I'm deeply engrossed in the realm of cybersecurity and technology. Currently constructing this website which hosts my InfoSec skills and the technology associated with it. Intended to enrich progressively over time.
 
@@ -36,7 +36,7 @@ Welcome to my corner of the internet! I'm deeply engrossed in the realm of cyber
 
 ✉️ **Contact Information**
 - Explore my [PGP key](https://incident-clarity.github.io/posts/pgp/#my-public-pgp-key). 
-- ssh[.]report1[@]gmail[.]com
+- ssh.report1[@]gmail[dot]com
 - Connect on [LinkedIn](https://www.linkedin.com/in/aayan-ta/).
 
 <a href="https://tryhackme.com/p/IncidentClarity" target="_blank">
