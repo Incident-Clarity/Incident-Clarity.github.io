@@ -12,6 +12,7 @@ h2, h3, h4, h5, h6 {
 text-align: left;  
 }
 
+/* To reduce the distance / padding space between the content and TOC (removve and test) */
 .max-w-prose {  
   max-width: 825px;  
 #  max-width: 100%; /* You can use this in place of the max width pixels option above. Either of them works fine, though I prefer to use the px option. */  
@@ -22,4 +23,35 @@ text-align: left;
 
 kbd {
   font-family: monospace;
+}
+
+
+
+
+/* Select the TOC container */
+.toc {
+    max-height: 100%;  /* Adjust this height as needed -> px , %, em (relative to the font size), vh (viewport height)*/
+    overflow-y: hidden;   /* Enable scrolling if content overflows -> auto, scroll, hidden, visible*/
+    margin-bottom: 2em; /* Add some space below the TOC -> px, %, em, rem */
+    width: 300px;       /* Set a fixed width for the TOC -> px, %, em, rem, vw */
+}
+
+/* Ensure the list items wrap text */
+.toc li {
+    white-space: normal; /* Allow wrapping of text -> normal, nowrap, pre, pre-wrap, pre-line */
+    line-height: 1.2em;  /* Adjust line height for readability */
+    margin-bottom: 0.5em; /* Space between items */
+    font-size: 1em;     /* Reduce font size for compactness */
+}
+
+/* Optional: Style the nested list items to be more compact */
+.toc ul {
+    padding-left: 1em; /* Indent nested items */
+    margin-top: 0.9em; /* Space above nested items */
+}
+
+/* Ensure that the TOC items don't overflow horizontally */
+.toc a {
+    word-wrap: break-word; /* Enable word wrapping -> normal, break-word */
+    display: block;        /* Ensure links are block elements -> block, inline, inline-block, flex */
 }

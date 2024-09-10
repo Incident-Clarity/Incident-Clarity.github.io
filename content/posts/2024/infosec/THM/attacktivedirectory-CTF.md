@@ -227,7 +227,6 @@ sudo vim /etc/hosts
 2. What is the NetBIOS-Domain Name of the machine?
 	  - `THM-AD`
 
-
 3. What invalid TLD do people commonly use for their Active Directory Domain?
 	- `.local` (spookysec.local)
 
