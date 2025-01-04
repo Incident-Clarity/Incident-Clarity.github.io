@@ -1,8 +1,35 @@
-siem-tldr
+---
+title: "TL;DR: Quick guide for SIEM, EDR, SOAR, and XDR"
+date: 2025-01-03T20:49:17+05:30
+url: /sec-surveillance-tools-TLDR/
+categories:
+  - Security
+  - Notes
+tags:
+  - SIEM
+draft: false
+author: aayan
+showauthor: false
+showDateOnlyInArticle: false
+showDateUpdated: true
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: true
+showTableOfContents: true
+showTaxonomies: true
+showWordCount: true
+sharingLinks: false
+showEdit: false
+showViews: false
+showLikes: false
+showSummary: true
+summary: A quick, no-nonsense overview of few security technologies
+---
+<!--more-->
 
-**TL;DR: Mastering SIEM, EDR, SOAR, and XDR — A Quick Guide**
+> Security teams often juggle multiple tools to keep threats in check. Here's a quick, no-nonsense overview of how SIEM, EDR, SOAR, and XDR fit together, plus how to ramp up fast on any commercial solution.
 
-Security teams often juggle multiple tools to keep threats in check. Here’s the short version of how SIEM, EDR, SOAR, and XDR fit together, plus how to ramp up fast on any commercial solution.
+
 
 ---
 

@@ -9,11 +9,14 @@ defaultContentLanguage = "en"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
+
 summaryLength = 0
 
-# idk if this works
-MetaDataFormat = "yaml"
+[pagination]
+pagerSize = 10
+
+[frontmatter]
+  default = ["yaml"]
 
 buildDrafts = false
 buildFuture = false
@@ -23,7 +26,7 @@ buildFuture = false
 [imaging]
   anchor = 'Center'
 
-[author]
+[params.author]
   author = "Aayan"
 
 [taxonomies]

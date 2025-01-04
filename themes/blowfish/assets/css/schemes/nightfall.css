@@ -1,0 +1,76 @@
+/* Nightfall scheme */
+:root {
+  /* Base “body” text color and background */
+  --color-bg:  18, 18, 27;   /* #12121B near-black background */
+  --color-fg:  255, 255, 255; /* white text */
+
+  /* Neutral grays/blacks */
+  --color-neutral:      255, 255, 255; /* Used for layering text or default “white” if needed */
+  --color-neutral-50:   248, 249, 250; 
+  --color-neutral-100:  241, 243, 245;
+  --color-neutral-200:  222, 226, 230;
+  --color-neutral-300:  206, 212, 218;
+  --color-neutral-400:  173, 181, 189;
+  --color-neutral-500:  134, 142, 150;
+  --color-neutral-600:  108, 117, 125;
+  --color-neutral-700:  73,  80,  87;
+  --color-neutral-800:  52,  58,  64;
+  --color-neutral-900:  33,  37,  41;  /* Darker gray close to black */
+
+  /* Primary - Purple */
+  --color-primary-50:   245, 242, 255; /* #F5F2FF */
+  --color-primary-100:  236, 232, 254; /* #ECE8FE */
+  --color-primary-200:  217, 209, 253; /* #D9D1FD */
+  --color-primary-300:  196, 184, 251; /* #C4B8FB */
+  --color-primary-400:  168, 138, 248; /* #A88AF8 */
+  --color-primary-500:  127,  86, 217; /* #7F56D9 */
+  --color-primary-600:  111,  75, 205; /* #6F4BCD */
+  --color-primary-700:  93,   58, 188; /* #5D3ABC */
+  --color-primary-800:  75,   40, 172; /* #4B28AC */
+  --color-primary-900:  57,   24, 158; /* #39189E */
+
+  /* Secondary - Teal (accent) */
+  --color-secondary-50:   240, 253, 249; /* #F0FDF9 */
+  --color-secondary-100:  204, 251, 236; /* #CCFBEC */
+  --color-secondary-200:  153, 246, 228; /* #99F6E4 */
+  --color-secondary-300:  94,  234, 212; /* #5EEAD4 */
+  --color-secondary-400:  45,  212, 191; /* #2DD4BF */
+  --color-secondary-500:  20,  184, 166; /* #14B8A6 */
+  --color-secondary-600:  13,  148, 136; /* #0D9488 */
+  --color-secondary-700:  15,  118, 110; /* #0F766E */
+  --color-secondary-800:  17,  94,   89; /* #115E59 */
+  --color-secondary-900:  19,  78,   74; /* #134E4A */
+}
+
+/* Example usage (you can adjust as needed): */
+body {
+  background-color: rgb(var(--color-bg));
+  color: rgb(var(--color-fg));
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Heading in primary purple */
+h1, h2, h3 {
+  color: rgb(var(--color-primary-500));
+}
+
+/* Links or buttons in the teal accent */
+a,
+button,
+.link {
+  color: rgb(var(--color-secondary-500));
+}
+a:hover,
+button:hover {
+  color: rgb(var(--color-secondary-300));
+}
+
+/* Cards, sections, or containers in a slightly lighter background */
+.section {
+  background-color: rgb(var(--color-neutral-900));
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem 0;
+}
