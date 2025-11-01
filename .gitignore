@@ -21,7 +21,6 @@ pids
 *.pid.lock
 
 
-
 # node-waf configuration
 .lock-wscript
 
