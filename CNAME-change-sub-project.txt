@@ -1,9 +1,0 @@
-Files to modify for URL change (44 occurrences of "https://incident-clarity.github.io/"):
-
-- content/whoami/index.md
-- content/posts/2024/UNIX/git-101.md
-- content/posts/2023/pgp.md
-- README.md
-- static/sitemap2.xml
-
-All URLs have been replaced with "https://incidentclarity.qzz.io/"
