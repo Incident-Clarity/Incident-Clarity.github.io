@@ -4,204 +4,96 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
-  <loc>https://incident-clarity.github.io/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/posts/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2023/pgp/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/linux/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/UNIX/git-101/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/windows/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2025/InfoSec/Linux-file-perm/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/networking/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2025/InfoSec/incident-response-lifecycle-tldr/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/security/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2025/InfoSec/siem-tldr/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/ctfs/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/UNIX/journey-to-Rustacean/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/interview/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/infosec/THM/Investigating_with_ELK_101/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/courses/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/infosec/THM/Advanced-ELK-Queries/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/categories/notes/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/infosec/THM/attacktivedirectory-CTF/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/tags/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/UNIX/zoxide-a-cd-replacment/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/whoami/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/pgdcs/ISO-27001-checklist/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/sem2-Final-Presentation/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2023/obsidian-page-break/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/zoxide-a-cd-replacment/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2023/laptop-battery/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/attacktivedirectory-CTF/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2023/PGP-and-use/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/basic-concepts/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/pgdcs/sem2-Final-Presentation/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/glazeWM-windows/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/Windows/Bypassing-SmartScreen/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/PGP-and-use/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/Windows/glazeWM-windows/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incident-clarity.github.io/posts/2023/laptop-battery/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
+  <loc>https://incidentclarity.qzz.io/posts/2024/infosec/basic-concepts/</loc>
+  <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://incident-clarity.github.io/posts/2023/pgp/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/changelog/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/posts/2023/obsidian-page-break/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/activedirectory/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/blog/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/bpc/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/business/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/guide/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/linux/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/mac/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/md/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/open-source/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/parody/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/pgp/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/terminal/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/tool/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/tryhackme/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/windows/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/xdr/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://incident-clarity.github.io/tags/zoxide/</loc>
-  <lastmod>2024-04-27T09:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
 
 </urlset>

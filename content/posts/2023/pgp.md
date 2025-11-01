@@ -19,7 +19,7 @@ title: My PGP key
 
 ## My public PGP key:
 
-[PGP_KEY]https://incident-clarity.github.io/PGP_KEY.txt
+[PGP_KEY]https://incidentclarity.qzz.io/PGP_KEY.txt
 
 
 ## Or get it from here: 

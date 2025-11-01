@@ -1,10 +1,19 @@
-# [Incident Clarity](https://incident-clarity.github.io/)
+# [Incident Clarity](https://incidentclarity.qzz.io/)
 
-My InfoSec blog built using Hugo!
+Welcome to Incident Clarity, an InfoSec blog built with Hugo and powered by a passion for cybersecurity, Linux, and open-source technology. Our mission is to share well-researched insights, tutorials, and best practices in information security.
 
-This reposiroty contains blogs written for my website which is currently hosted on github.io, which is really fun to set up. I'm using Blowfish as my theme, I have modified it, I'm still learning how hugo works. Currently as of May, 2024 I'm happy with the website structure. I usually post about stuff I'm regularly using on Linux and Cybersecurity stuff. 
+## What You'll Find Here
+- In-depth articles on cybersecurity trends and incident response techniques.
+- Practical guides on Linux, Unix, and Windows systems.
+- Hands-on tutorials for encryption, digital privacy, and securing networks.
+- Inspiring stories and lessons learned from the world of Infosec.
 
-Read more [about me](https://incident-clarity.github.io/whoami/)
+## About Me
+I'm Aayan—a cybersecurity enthusiast and Linux aficionado—constantly exploring the evolving world of technology and security. Follow along for expert insights and real-world experiences.
 
+## Explore More
+- [My PGP Key](https://incidentclarity.qzz.io/pgp/keys/aayan-publickey.asc)
+- [Read About Me](https://incidentclarity.qzz.io/whoami/)
+- [Dive Into My Articles](https://incidentclarity.qzz.io/posts/)
 
-
+Whether you're a seasoned professional or just starting out in cybersecurity, there is something for everyone here at Incident Clarity. Thank you for visiting, and stay secure!

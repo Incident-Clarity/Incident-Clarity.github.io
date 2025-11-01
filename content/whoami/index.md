@@ -38,7 +38,7 @@ Welcome to my corner of the internet! I'm deeply engrossed in the realm of cyber
 - **Editors** like Obsidian, neovim, & VSCodium
 
 ✉️ **Contact Information**
-- My [PGP Key](https://incident-clarity.github.io/pgp/keys/aayan-publickey.asc). 
+- My [PGP Key](https://incidentclarity.qzz.io/pgp/keys/aayan-publickey.asc). 
 - ssh.report1[@]gmail[dot]com
 - Connect on [LinkedIn](https://www.linkedin.com/in/aayan-ta/).
 
